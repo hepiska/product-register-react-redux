@@ -1,0 +1,8 @@
+{
+  "product": [
+    { "id": 1, "name": "Kopi", "price": "25000" , "imageurl":"http://online24jam.com/wp-content/uploads/2016/07/Kopi-Aybela.jpg" },
+    { "id": 2, "name": "Teh", "price": "25000" , "imageurl":"http://www.kitterypta.org/wp-content/uploads/2017/01/TEH.jpg" },
+    { "id": 3, "name": "Pancake", "price": "40000" , "imageurl":"http://www.krusteaz.com/sites/krusteaz.com/files/styles/product_hero/public/images/products/heroes/krusteaz-buttermilk-pancakes.jpg?itok=ut9Y-Rfb" },
+    { "id": 4, "name": "Chesee Cake", "price": "30000" , "imageurl":"https://www.thecheesecakefactory.com/assets/images/Menu-Import/CCF_FreshStrawberryCheesecake.jpg" }
+  ]
+}
